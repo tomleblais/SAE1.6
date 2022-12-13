@@ -151,4 +151,41 @@ footer a:hover {
         padding: 30px;
         display: none;
     }
+    main img#carte {
+        width: 100%;
+    }
+}
+
+#compte{
+    display: block;
+    float: right;
+    margin: 10px;
+    height: 60px;
+    width: 230px;
+}
+
+#img_usr{
+    height: 59px;
+}
+
+#nom{
+    font-size: 125%;
+    color: black;
+}
+
+#nom:hover{
+    font-size: 125%;
+    color: black;
+    cursor: pointer;
+}
+
+#page_compte{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 3%;
+}
+
+#image_compte{
+    height: 50%;
+    width: 50%;
 }
